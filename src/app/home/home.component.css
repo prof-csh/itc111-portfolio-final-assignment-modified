@@ -1,0 +1,18 @@
+.Home {
+  position: absolute;
+  left: 0;
+  color: white;
+   bottom: 33%;
+     padding-left: 50px;
+  font-family: verdana;
+ 
+}
+.Home h1{
+  padding-right: 90px;
+  border-bottom: 1px solid white;
+  text-transform: uppercase;
+}
+.Home h3{
+  padding: 5px 0;
+  opacity: 0.6;
+}

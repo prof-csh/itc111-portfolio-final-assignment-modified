@@ -1,0 +1,51 @@
+p {
+  font-family: Lato;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+li a:hover {
+  background-color: blue;
+  color: red;
+
+}
+
+
+*{
+margin: 0;
+padding: 0;
+}
+html, body{
+width: 100%;
+height: 100%;
+font-size: 14px;
+font-weight: normal;
+}
+.background{
+  width: 100%;
+  height: 1000px;
+background-image: url(https://static01.nyt.com/images/2018/07/15/sports/15onsoccer1/merlin_141134229_dc86bfb3-8806-45ab-b00f-3bbc89f35b26-videoLarge.jpg);
+background-repeat: np-repeat;
+background-size: cover;
+position: relative;
+overflow-y: auto;
+}

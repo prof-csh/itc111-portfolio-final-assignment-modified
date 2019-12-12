@@ -1,0 +1,30 @@
+h1{
+  color: #DB91EF
+}
+
+.biography{
+position: absolute;
+  right: 0;
+  bottom: 528px;
+  color: white;
+  font-family: century gothic;
+  padding: 0 60px;
+  display: inline-block;
+}
+.biography p{
+font-size: px;
+line-height: 28px;
+margin-bottom: 15px;
+}
+
+.pic{
+  border: 10px solid white;
+  -webkit-border-image: url(border.png) 30 stretch; /* Safari 3.1-5 */
+  -o-border-image: url(border.png) 30 stretch; /* Opera 11-12.1 */
+  border-image: url(border.png) 30 stretch;
+  border-style: outset;
+
+}
+p {
+  color: #FEFEFE;
+}
